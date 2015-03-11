@@ -1,0 +1,3 @@
+[submodule "new-hires"]
+	path = new-hires
+	url = https://github.com/githubteacher/new-hires.git
